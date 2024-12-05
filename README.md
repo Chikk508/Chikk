@@ -1,2 +1,2 @@
-# Chikk
+@chikkbot
 Telegram 
